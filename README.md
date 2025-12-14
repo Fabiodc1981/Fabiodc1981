@@ -1,0 +1,7 @@
+## Olá a todos!
+
+Meu nome é Fábio, sou profissional na área de TI a mais de 20 anos, e procuro estar sempre em evolução, no momento estou estudando para me tornar um profissional em **DevOps**, também estou cursando Pós graduação na **Anhaguera** em parceria com a **TFTEC** o curso de ***Arquiterura Avançada de Cloud com Azure***.
+
+Uma frase que gosto muito é:
+
+***"A lei do esforço não te abandona!"***
