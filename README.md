@@ -6,4 +6,11 @@ Uma frase que gosto muito é:
 
 ***"A lei do esforço não te abandona!"***
 
+<details>
+  <summary> Certificates & Trainings</summary>
+  <!--START_SECTION:badges-->
+  <!--END_SECTION:badges-->
+
+</details>
+
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Fabiodc1981&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
