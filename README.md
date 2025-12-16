@@ -9,7 +9,6 @@ Uma frase que gosto muito é:
 <details>
   <summary> Certificates & Trainings</summary>
   <!--START_SECTION:badges-->
-  https://learn.microsoft.com/api/credentials/share/pt-br/FabioDaviCordeiro-6720/1E558020352787B?sharingId=7E8DE7D161EFFC0A
   <!--END_SECTION:badges-->
 
 </details>
