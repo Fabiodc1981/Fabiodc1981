@@ -12,4 +12,5 @@ Uma frase que gosto muito é:
   <!--END_SECTION:badges-->
 
 </details>
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Fabiodc1981&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fabiodc1981&theme=dracula)
+
