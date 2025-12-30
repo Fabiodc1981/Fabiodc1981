@@ -12,5 +12,3 @@ Uma frase que gosto muito é:
   <!--END_SECTION:badges-->
 
 </details>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fabiodc1981&theme=dracula)
-
